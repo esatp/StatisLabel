@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'StatisLabel_Example', :exclusive => true do
+  pod 'StatisLabel', :path => '../'
+end
+
+target 'StatisLabel_Tests', :exclusive => true do
+  pod 'StatisLabel', :path => '../'
+
+  
+end
