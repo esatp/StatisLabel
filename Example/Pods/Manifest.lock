@@ -1,0 +1,14 @@
+PODS:
+  - StatisLabel (0.1.0)
+
+DEPENDENCIES:
+  - StatisLabel (from `../`)
+
+EXTERNAL SOURCES:
+  StatisLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  StatisLabel: 46d95d855232ab9d6921e41b20ca99ecca91ad02
+
+COCOAPODS: 0.39.0

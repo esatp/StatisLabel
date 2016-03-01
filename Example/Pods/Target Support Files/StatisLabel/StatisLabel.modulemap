@@ -1,0 +1,6 @@
+framework module StatisLabel {
+  umbrella header "StatisLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
