@@ -16,9 +16,9 @@ Pod::Spec.new do |s|
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      ="this is just cocoaTest app"
+  s.description      ="this is just cocoaTest ap cocoaTest adasdas arben pnishi p9"
 
-  s.homepage         = "https://github.com/eskopium/StatisLabel"
+  s.homepage         = "https://github.com/esatp/StatisLabel"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Esat Pllana" => "esatpllana@appsix.al" }
